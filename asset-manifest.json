@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/chandan_state_2/static/css/main.df4ded3d.css",
+    "main.js": "/chandan_state_2/static/js/main.31e531dd.js",
+    "static/js/787.f06ab1cb.chunk.js": "/chandan_state_2/static/js/787.f06ab1cb.chunk.js",
+    "index.html": "/chandan_state_2/index.html",
+    "main.df4ded3d.css.map": "/chandan_state_2/static/css/main.df4ded3d.css.map",
+    "main.31e531dd.js.map": "/chandan_state_2/static/js/main.31e531dd.js.map",
+    "787.f06ab1cb.chunk.js.map": "/chandan_state_2/static/js/787.f06ab1cb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df4ded3d.css",
+    "static/js/main.31e531dd.js"
+  ]
+}
